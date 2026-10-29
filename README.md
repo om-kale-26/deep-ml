@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**18** solved · 10 problems · 1 labs · 7 math
+**19** solved · 11 problems · 1 labs · 7 math
 
 ![Coverage](./coverage.svg)
 
@@ -18,6 +18,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Linear Regression Using Gradient Descent](https://www.deep-ml.com/problems/15) | easy | 2026-10-25 | [solution](problems/0015-linear-regression-using-gradient-descent) |
 | [Linear Regression Using Normal Equation](https://www.deep-ml.com/problems/14) | easy | 2026-10-23 | [solution](problems/0014-linear-regression-using-normal-equation) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-10-23 | [solution](problems/0001-matrix-vector-dot-product) |
+| [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-29 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-29 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-25 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-23 | [solution](problems/0009-matrix-times-matrix) |

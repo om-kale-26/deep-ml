@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T15:37:52.213Z",
+  "generated_at": "2026-10-29T17:10:53.757Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -220,6 +220,19 @@
       "last_pushed_at": "2026-10-29T15:37:51.656Z",
       "language": "python",
       "lines": 28
+    },
+    "problem:34": {
+      "kind": "problem",
+      "id": "34",
+      "title": "One-Hot Encoding of Nominal Values",
+      "difficulty": "easy",
+      "category": "Machine Learning",
+      "url": "https://www.deep-ml.com/problems/34",
+      "path": "problems/0034-one-hot-encoding-of-nominal-values",
+      "first_solved_at": "2026-10-29T17:10:53.455Z",
+      "last_pushed_at": "2026-10-29T17:10:53.455Z",
+      "language": "python",
+      "lines": 18
     }
   }
 }
