@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-31T10:11:09.648Z",
+  "generated_at": "2026-10-31T10:28:06.345Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -355,6 +355,17 @@
       "path": "math/0043-model-selection-cv-aic-and-bic",
       "first_solved_at": "2026-10-31T10:11:09.607Z",
       "last_pushed_at": "2026-10-31T10:11:09.607Z"
+    },
+    "math:94": {
+      "kind": "math",
+      "id": "94",
+      "title": "Ridge vs Lasso: Constraint Geometry and Soft-Thresholding",
+      "difficulty": "hard",
+      "category": "Statistical Modeling",
+      "url": "https://www.deep-ml.com/math-problems/94",
+      "path": "math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding",
+      "first_solved_at": "2026-10-31T10:28:06.310Z",
+      "last_pushed_at": "2026-10-31T10:28:06.310Z"
     }
   }
 }

@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**29** solved · 16 problems · 2 labs · 11 math
+**30** solved · 16 problems · 2 labs · 12 math
 
 ![Coverage](./coverage.svg)
 
@@ -51,6 +51,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Orthogonality and Projections](https://www.deep-ml.com/math-problems/14) | medium | 2026-10-24 | [solution](math/0014-orthogonality-and-projections) |
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-31 | [solution](math/0031-regularization-and-generalization) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-30 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
+| [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-10-31 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 
 ---
 
