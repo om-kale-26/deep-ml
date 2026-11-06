@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**35** solved · 20 problems · 2 labs · 13 math
+**36** solved · 21 problems · 2 labs · 13 math
 
 ![Coverage](./coverage.svg)
 
@@ -28,6 +28,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Elastic Net Regression via Gradient Descent](https://www.deep-ml.com/problems/139) | medium | 2026-11-06 | [solution](problems/0139-elastic-net-regression-via-gradient-descent) |
 | [Handle Missing Data with Imputation](https://www.deep-ml.com/problems/354) | medium | 2026-10-29 | [solution](problems/0354-handle-missing-data-with-imputation) |
 | [Implement Gradient Descent Variants with MSE Loss](https://www.deep-ml.com/problems/47) | medium | 2026-10-25 | [solution](problems/0047-implement-gradient-descent-variants-with-mse-loss) |
+| [Implement K-Fold Cross-Validation](https://www.deep-ml.com/problems/18) | medium | 2026-11-06 | [solution](problems/0018-implement-k-fold-cross-validation) |
 | [Implement Lasso Regression using ISTA](https://www.deep-ml.com/problems/50) | medium | 2026-10-31 | [solution](problems/0050-implement-lasso-regression-using-ista) |
 | [Matrix times Matrix ](https://www.deep-ml.com/problems/9) | medium | 2026-10-23 | [solution](problems/0009-matrix-times-matrix) |
 | [Numerical Gradient Checking](https://www.deep-ml.com/problems/313) | medium | 2026-10-28 | [solution](problems/0313-numerical-gradient-checking) |
