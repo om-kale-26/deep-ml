@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:56:35.971Z",
+  "generated_at": "2026-11-14T09:19:34.299Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -514,6 +514,19 @@
       "last_pushed_at": "2026-11-14T08:56:35.931Z",
       "language": "python",
       "lines": 16
+    },
+    "problem:182": {
+      "kind": "problem",
+      "id": "182",
+      "title": "Central Limit Theorem Simulation",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/182",
+      "path": "problems/0182-central-limit-theorem-simulation",
+      "first_solved_at": "2026-11-14T09:19:34.668Z",
+      "last_pushed_at": "2026-11-14T09:19:34.668Z",
+      "language": "python",
+      "lines": 43
     }
   }
 }
