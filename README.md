@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**45** solved · 26 problems · 2 labs · 17 math
+**46** solved · 26 problems · 2 labs · 18 math
 
 ![Coverage](./coverage.svg)
 
@@ -66,6 +66,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Regularization and Generalization](https://www.deep-ml.com/math-problems/31) | medium | 2026-10-31 | [solution](math/0031-regularization-and-generalization) |
 | [Statistical Inference](https://www.deep-ml.com/math-problems/27) | medium | 2026-11-14 | [solution](math/0027-statistical-inference) |
 | [Training Error, Test Error and the Bayes Rate](https://www.deep-ml.com/math-problems/104) | medium | 2026-10-30 | [solution](math/0104-training-error-test-error-and-the-bayes-rate) |
+| [Type I and Type II Error, Power, and the Uniform Null](https://www.deep-ml.com/math-problems/83) | medium | 2026-11-14 | [solution](math/0083-type-i-and-type-ii-error-power-and-the-uniform-null) |
 | [Ridge vs Lasso: Constraint Geometry and Soft-Thresholding](https://www.deep-ml.com/math-problems/94) | hard | 2026-10-31 | [solution](math/0094-ridge-vs-lasso-constraint-geometry-and-soft-thresholding) |
 
 ---
