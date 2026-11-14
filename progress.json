@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T08:38:00.834Z",
+  "generated_at": "2026-11-14T08:56:35.971Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -501,6 +501,19 @@
       "path": "math/0023-law-of-large-numbers-and-central-limit-theorem",
       "first_solved_at": "2026-11-14T08:38:01.183Z",
       "last_pushed_at": "2026-11-14T08:38:01.183Z"
+    },
+    "problem:80": {
+      "kind": "problem",
+      "id": "80",
+      "title": "Normal Distribution PDF Calculator",
+      "difficulty": "medium",
+      "category": "Probability",
+      "url": "https://www.deep-ml.com/problems/80",
+      "path": "problems/0080-normal-distribution-pdf-calculator",
+      "first_solved_at": "2026-11-14T08:56:35.931Z",
+      "last_pushed_at": "2026-11-14T08:56:35.931Z",
+      "language": "python",
+      "lines": 16
     }
   }
 }
