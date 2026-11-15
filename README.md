@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**51** solved · 29 problems · 2 labs · 20 math
+**52** solved · 30 problems · 2 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -26,6 +26,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [One-Hot Encoding of Nominal Values](https://www.deep-ml.com/problems/34) | easy | 2026-10-29 | [solution](problems/0034-one-hot-encoding-of-nominal-values) |
 | [Random Train/Validation/Test Split with Shuffling](https://www.deep-ml.com/problems/1058) | easy | 2026-10-29 | [solution](problems/1058-random-train-validation-test-split-with-shuffling) |
 | [Sample Ratio Mismatch: A Chi-Square Check on Assignment Counts](https://www.deep-ml.com/problems/1455) | easy | 2026-11-15 | [solution](problems/1455-sample-ratio-mismatch-a-chi-square-check-on-assignment-counts) |
+| [Bayesian A/B Testing: Probability of Being Best and Expected Loss](https://www.deep-ml.com/problems/1457) | medium | 2026-11-15 | [solution](problems/1457-bayesian-a-b-testing-probability-of-being-best-and-expected-loss) |
 | [Bayesian Linear Regression: Sequential Posterior and Predictive Bands](https://www.deep-ml.com/problems/1817) | medium | 2026-11-05 | [solution](problems/1817-bayesian-linear-regression-sequential-posterior-and-predictive-bands) |
 | [Bias-Variance Decomposition from Bootstrap](https://www.deep-ml.com/problems/804) | medium | 2026-11-06 | [solution](problems/0804-bias-variance-decomposition-from-bootstrap) |
 | [Calculate Statistical Power for Experiment Design](https://www.deep-ml.com/problems/296) | medium | 2026-11-14 | [solution](problems/0296-calculate-statistical-power-for-experiment-design) |

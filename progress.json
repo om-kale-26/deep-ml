@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T07:07:55.472Z",
+  "generated_at": "2026-11-15T07:09:16.020Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -623,6 +623,19 @@
       "last_pushed_at": "2026-11-15T07:07:55.928Z",
       "language": "python",
       "lines": 46
+    },
+    "problem:1457": {
+      "kind": "problem",
+      "id": "1457",
+      "title": "Bayesian A/B Testing: Probability of Being Best and Expected Loss",
+      "difficulty": "medium",
+      "category": "Statistics",
+      "url": "https://www.deep-ml.com/problems/1457",
+      "path": "problems/1457-bayesian-a-b-testing-probability-of-being-best-and-expected-loss",
+      "first_solved_at": "2026-11-15T07:09:05.477Z",
+      "last_pushed_at": "2026-11-15T07:09:05.477Z",
+      "language": "python",
+      "lines": 44
     }
   }
 }
