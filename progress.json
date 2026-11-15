@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T17:16:51.791Z",
+  "generated_at": "2026-11-15T06:56:37.902Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -588,6 +588,17 @@
       "last_pushed_at": "2026-11-14T17:16:38.735Z",
       "language": "python",
       "lines": 36
+    },
+    "math:102": {
+      "kind": "math",
+      "id": "102",
+      "title": "Potential Outcomes and the ATE under Randomization",
+      "difficulty": "medium",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/102",
+      "path": "math/0102-potential-outcomes-and-the-ate-under-randomization",
+      "first_solved_at": "2026-11-15T06:56:38.302Z",
+      "last_pushed_at": "2026-11-15T06:56:38.302Z"
     }
   }
 }
