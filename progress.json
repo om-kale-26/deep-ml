@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-15T06:56:37.902Z",
+  "generated_at": "2026-11-15T07:06:03.801Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -599,6 +599,17 @@
       "path": "math/0102-potential-outcomes-and-the-ate-under-randomization",
       "first_solved_at": "2026-11-15T06:56:38.302Z",
       "last_pushed_at": "2026-11-15T06:56:38.302Z"
+    },
+    "math:103": {
+      "kind": "math",
+      "id": "103",
+      "title": "A/B Test Sample Size and Minimum Detectable Effect",
+      "difficulty": "medium",
+      "category": "Experiments and Causal Inference",
+      "url": "https://www.deep-ml.com/math-problems/103",
+      "path": "math/0103-a-b-test-sample-size-and-minimum-detectable-effect",
+      "first_solved_at": "2026-11-15T07:06:04.090Z",
+      "last_pushed_at": "2026-11-15T07:06:04.090Z"
     }
   }
 }

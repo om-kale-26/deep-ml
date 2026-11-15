@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**49** solved · 28 problems · 2 labs · 19 math
+**50** solved · 28 problems · 2 labs · 20 math
 
 ![Coverage](./coverage.svg)
 
@@ -57,6 +57,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [ML Workflow Basics](https://www.deep-ml.com/math-problems/30) | easy | 2026-10-29 | [solution](math/0030-ml-workflow-basics) |
 | [Model Selection: CV, AIC, and BIC](https://www.deep-ml.com/math-problems/43) | easy | 2026-10-31 | [solution](math/0043-model-selection-cv-aic-and-bic) |
 | [Probability Fundamentals](https://www.deep-ml.com/math-problems/19) | easy | 2026-11-14 | [solution](math/0019-probability-fundamentals) |
+| [A/B Test Sample Size and Minimum Detectable Effect](https://www.deep-ml.com/math-problems/103) | medium | 2026-11-15 | [solution](math/0103-a-b-test-sample-size-and-minimum-detectable-effect) |
 | [Bayesian Linear Regression: Posterior and Posterior Predictive](https://www.deep-ml.com/math-problems/454) | medium | 2026-11-05 | [solution](math/0454-bayesian-linear-regression-posterior-and-posterior-predictive) |
 | [Bias–Variance Decomposition](https://www.deep-ml.com/math-problems/39) | medium | 2026-10-31 | [solution](math/0039-bias-variance-decomposition) |
 | [Common Distributions II: Normal, Poisson, Exponential](https://www.deep-ml.com/math-problems/22) | medium | 2026-11-14 | [solution](math/0022-common-distributions-ii-normal-poisson-exponential) |
